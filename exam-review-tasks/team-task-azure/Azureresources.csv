@@ -1,0 +1,12 @@
+SEP=,
+NAME,TYPE,RESOURCE GROUP,LOCATION,SUBSCRIPTION,
+"myosdisk1","Disk","tfvmex-network-1","West Europe","Azure subscription 1"
+"myosdisk2","Disk","tfvmex-network-2","West US","Azure subscription 1"
+"NetworkWatcher_westeurope","Network Watcher","networkwatcherrg","West Europe","Azure subscription 1"
+"NetworkWatcher_westus","Network Watcher","networkwatcherrg","West US","Azure subscription 1"
+"tfvmex-nic","Network interface","tfvmex-network-1","West Europe","Azure subscription 1"
+"tfvmex-nic","Network interface","tfvmex-network-2","West US","Azure subscription 1"
+"tfvmex-vm","Virtual machine","tfvmex-network-1","West Europe","Azure subscription 1"
+"tfvmex-vm2","Virtual machine","tfvmex-network-2","West US","Azure subscription 1"
+"tfvmex-vnet-1","Virtual network","tfvmex-network-1","West Europe","Azure subscription 1"
+"tfvmex-vnet-2","Virtual network","tfvmex-network-2","West US","Azure subscription 1"
